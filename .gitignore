@@ -2,6 +2,7 @@
 # Created by https://www.gitignore.io/api/git,django,python,pycharm+all
 
 ### Django ###
+/static
 *.log
 *.pot
 *.pyc
